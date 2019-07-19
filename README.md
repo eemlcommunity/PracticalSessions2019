@@ -1,3 +1,5 @@
+# Practical Sessions for Eastern European Machine Learning Summer School (EEML)
+
 The exercises in this repository are used for the practical sessions of the Eastern European Machine Learning Summer School, happening in Bucharest, Romania between 1-6 July 2019. The sessions cover topics from basic knowledge of numpy, tensorflow to computer vision, recurrent models, unsupervised learning and reinforcement learning.
 
 You are welcome to reuse this material in other courses or schools, but please reach out to contact@eeml.eu if you plan to do so. We would appreciate if you could acknowledge that the materials come from EEML2019 and give credits to EEML2019 lab instructors (David Szepesvari - introductory, Viorica Patraucean - vision, Andrei Rusu - rnn, Mihaela Rosca - unsupervised, Diana Borsa - rl). Also please keep a link in your materials to the original eeml2019 repo, in case updates occur.
